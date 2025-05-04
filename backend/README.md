@@ -1,5 +1,5 @@
 
-#File Vault
+# 🗂️ File Vault - Backend
 
 A secure, efficient file hosting system built with AI-augmented development. Features include **file deduplication**, **search & filtering**, and storage stats.
 
